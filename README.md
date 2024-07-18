@@ -1,2 +1,2 @@
-# my-first-project
-This is my first project on GitHub.
+# About my first project on Github
+In this test upload project, I used python to test k-fold.
